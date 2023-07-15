@@ -17,6 +17,8 @@
 - add a pinch of salt, a pinch of pepper, and a pinch of grated nutmeg.
 - add all of the milk in the pot, mix everything with a whisk.
 - stir the pot until the consistency of the sauce become thick. 
+
   It should take 10/15 minute. 
+
   Don't stop stirring during the process, or you might burn the sauce.
 - once thick enough, you can use it directly, or keep it in a dish with transparent film touching the surface of the sauce. 
