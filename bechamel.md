@@ -22,7 +22,7 @@
 - Let cook until it is light brown, be careful not to burn it.  
 - Add a pinch of salt, a pinch of pepper, and a pinch of grated nutmeg.  
 - Add all of the milk in the pot, mix everything with a whisk.  
-- == **Lasagna version only** == Add the grated parmesan.  
+- **Lasagna version only** Add the grated parmesan.  
 - Stir the pot until the consistency of the sauce become thick.  
 It should take 10/15 minute.  
 Don't stop stirring during the process, or you might burn the sauce.  
