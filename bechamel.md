@@ -2,12 +2,18 @@
 
 ## Ingredients
 
+### Base
+
 - 100g Butter
 - 100g Flour
 - 100cl Milk
 - Salt
 - Pepper
-- Nutmeg
+- Grated nutmeg
+
+### Lasagna version
+
+- 100g grated parmesan
 
 ## Preparation
 
@@ -16,6 +22,7 @@
 - Let cook until it is light brown, be careful not to burn it.
 - Add a pinch of salt, a pinch of pepper, and a pinch of grated nutmeg.
 - Add all of the milk in the pot, mix everything with a whisk.
+- (Lasagna version) Add the grated parmesan.
 - Stir the pot until the consistency of the sauce become thick. 
 
   It should take 10/15 minute. 
