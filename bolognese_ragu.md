@@ -15,7 +15,7 @@
 
 ## Preparation
 
-- Faire chauffer la casserole a feux moyen avec un filet d'huile d'olive.
+- Faire chauffer la casserole à feux moyen avec un filet d'huile d'olive.
 - Ajoutez la pancetta, oignon/carotte/célerie (sofrito) 10 minutes (les oignons doivent êtres transparents).
 - Ajoutez le boeuf et le porc.
 - Faire cuire jusqu'à ce que la viande brunisse, il faut etre patient, laissez l'eau de la viande s'évaporer, la garniture va ensuite commencer à brunire.
