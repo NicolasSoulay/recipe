@@ -1,6 +1,6 @@
 # Crepes
 
-## Ingredient
+## Ingredients
 
 - 5 oeufs
 - 85g de beurre fondu

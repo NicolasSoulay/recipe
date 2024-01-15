@@ -2,28 +2,27 @@
 
 ## Ingredients
 
-### Base
+### Basic
 
-- 100g Butter
-- 100g Flour
-- 100cl Milk
-- Salt
-- Pepper
-- Grated nutmeg
+- 100g de beurre.
+- 100g de farine.
+- 100cl de lait.
+- Sel.
+- Poivre.
+- Noix de muscade rapée.
 
-### Lasagna version
+### Version pour lasagne
 
-- 100g grated parmesan
+- 100g de parmesan rapé.
 
 ## Preparation
 
-- Melt the butter in a pot on low heat.  
-- Once melted, add the flour and mix with the butter.  
-- Let cook until it is light brown, be careful not to burn it.  
-- Add a pinch of salt, a pinch of pepper, and a pinch of grated nutmeg.  
-- Add all of the milk in the pot, mix everything with a whisk.  
-- **Lasagna version only** Add the grated parmesan.  
-- Stir the pot until the consistency of the sauce become thick.  
-It should take 10/15 minute.  
-Don't stop stirring during the process, or you might burn the sauce.  
-- Once thick enough, you can use it directly, or keep it in a dish with transparent film touching the surface of the sauce. 
+- Faire fondre le beurre dans une casserole à feu doux.  
+- Ajoutez la farine et mélangez avec le beurre afin de former une pâte.  
+- Faire cuire en mélangeant jusqu'à ce que la pâte brunisse, attention à ne pas la bruler.  
+- Ajoutez sel, poivre, et noix de muscade.  
+- Ajoutez le lait, le parmesan si vous faites la version lasagne, puis remuez avec un fouet.  
+- Continuez à mélanger avec le fouet jusqu'à ce que la sauce s'épaississe(à peu près 15 minutes).
+- Ne vous arrêtez jamais de remuer, vous risqueriez de bruler la sauce.    
+- Une fois qu'elle à bien épaissie, utilisez la sauce directement.
+- Pour conserver, étalez la dans un plat avec un film plastique plaqué dessus (la sauce ne doit pas avoir de contact direct avec l'air) afin d'éviter qu'elle séche.
