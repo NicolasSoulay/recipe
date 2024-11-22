@@ -40,7 +40,7 @@ les ingrédients sont mesurés par volume pour le risotto:
 ### Risotto
 
 - NE PAS RINCER LE RIZ
-- Découpez le/les oignons en dés très finement, on peux utiliser un processeur (l'oignon doit fondre à la cuisson, on ne veux sentir les morceaux sous les dents)
+- Découpez le/les oignons en dés très finement, on peux utiliser un processeur (l'oignon doit fondre à la cuisson, on ne veux pas sentir les morceaux sous les dents)
 - Rapez le parmesan
 
 - Dans une grande poêle, versez un filet d'huile d'olive, puis faites chauffer à feu moyen

@@ -3,7 +3,7 @@
 ## Plats
 
 - [Lasagnes](./lasagna.md)
-- [Risotto](./risotto.md)
+- [Risotto aux champignons](./risotto.md)
 - [Crêpes](./crepes.md)
 
 ## Desserts
