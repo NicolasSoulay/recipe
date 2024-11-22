@@ -2,12 +2,17 @@
 
 ## Ingredient
 
-- 30cl de riz Arborio - 1 vol
+- 30cl de riz Arborio
+
+> [!IMPORTANT]
+> Ne substituez pas le riz, croyez moi, j'ai tenté, c'est pas pareil
+> Vous en trouverez probablement en épicerie Italienne
+
 - Oignon blanc, à peu prés le même volume que le riz
 - 15cl de vin blanc, chardonnay de préférence
-- 1 verre de vin rouge
+- 1 verre de vin rouge ou porto (ruby)
 - 15cl de parmesan
-- 90cl de bouillon de champignon (utilisez des cubes, ou mettez les queue de champignon a infuser dans de l'eau fremissante avec quelques legumes)
+- 90cl de bouillon de légumes ou poulet (utilisez des cubes, du bouillon en brique, du bouillon que vous avez fais vous même ou mettez les pieds de champignon a infuser dans de l'eau fremissante avec quelques legumes)
 - 2 échalottes
 - 500g de champignons bruns
 - 200g de chanterelles
@@ -17,26 +22,26 @@
 - huile de truffe
 
 > [!NOTE]
-> pourquoi les mesures sont en centilitres et pas en gramme?
-> les ingrédients sont mesurés par volume pour le risotto:
+> Pourquoi certaines mesures sont en centilitres et pas en gramme?
+> Les ingrédients sont mesurés par volume pour le risotto:
 >
 > - 3 volumes d'eau/bouillon
 > - 2 volume de riz
-> - 1 volume d'oignon blanc
+> - 2 volume d'oignon blanc
 > - 1 volume de vin blanc
 > - 1 volume de parmesan
 
 ## Preparation
 
-### Garniture au champignons
+### Garniture aux champignons
 
-- Decoupez les champignons brun (gardez les chanterelles) et les échalottes en dés fins
+- Decoupez les champignons bruns (gardez les chanterelles) et les échalottes en dés fins, gardez les pieds de champignons pour le bouillon
 - Dans une poêle, versez un filet d'huile d'olive, puis faites chauffer à feu moyen les champignons et les échalottes, versez sel et poivre à votre convenance
-- Une fois que cela à bien rendu l'eau, ajoutez le vin rouge, mélangez et laissez cuire jusqu'a ce que l'alcool soit évaporé
+- Une fois que cela à bien rendu l'eau, ajoutez le vin rouge ou porto, mélangez et laissez cuire jusqu'a ce que l'alcool soit évaporé
 
 ### Dressage aux chanterelles
 
-- Faire cuire les chanterelles directement à feu doux dans une poêle avec un filet d'huile d'olive jusqu'à ce qu'elles aient rendu de l'eau
+- Faire cuire les chanterelles directement à feu doux dans une poêle avec un filet d'huile d'olive jusqu'à ce qu'elles aient rendus de l'eau
 
 ### Risotto
 
