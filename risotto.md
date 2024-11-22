@@ -5,7 +5,7 @@
 - 30cl de riz Arborio
 
 > [!IMPORTANT]
-> Ne substituez pas le riz, croyez moi, j'ai tenté, c'est pas pareil
+> Ne substituez pas le riz, croyez moi, j'ai tenté, c'est pas pareil.
 > Vous en trouverez probablement en épicerie Italienne
 
 - Oignon blanc, à peu prés le même volume que le riz
