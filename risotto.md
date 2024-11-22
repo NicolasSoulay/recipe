@@ -13,6 +13,8 @@
 - 200g de chanterelles
 - quelques feuilles de basilic
 - 50g de beurre
+- huile d'olive
+- huile de truffe
 
 pourquoi les mesures sont en centilitres et pas en gramme?
 les ingrédients sont mesurés par volume pour le risotto:
@@ -47,4 +49,5 @@ les ingrédients sont mesurés par volume pour le risotto:
 - Avec une louche, ajouter ~ 1/3 de l'eau/bouillon, mélangez doucement jusqu'à absorbtion, répétez pour toute la quantité de liquide
 - Ajoutez le parmesan, la garniture de champignons puis mélangez doucement jusqu'a ce qu'il soit fondu
 - Éteignez le feu, ajoutez le beurre, mélangez pour incorporer le beurre
-- Préparez les assiettes avec le risotto, dressez les chanterelles par dessus, saupoudrez avec du basilic ciselé et servez
+- Préparez les assiettes avec le risotto, dressez les chanterelles par dessus, saupoudrez avec du basilic ciselé et du parmesan râpé si vous le souhaitez, ajoutez un filet d'huile de truffe
+- Servez chaud
