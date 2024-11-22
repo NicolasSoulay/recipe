@@ -1,7 +1,9 @@
 # Recettes
 
 ## Plats
+
 - [Lasagnes](./lasagna.md)
+- [Risotto](./risotto.md)
 - [Crêpes](./crepes.md)
 
 ## Desserts
