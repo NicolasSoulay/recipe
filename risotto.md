@@ -16,14 +16,15 @@
 - huile d'olive
 - huile de truffe
 
-pourquoi les mesures sont en centilitres et pas en gramme?
-les ingrédients sont mesurés par volume pour le risotto:
-
-- 3 volumes d'eau/bouillon
-- 2 volume de riz
-- 1 volume d'oignon blanc
-- 1 volume de vin blanc
-- 1 volume de parmesan
+> [!NOTE]
+> pourquoi les mesures sont en centilitres et pas en gramme?
+> les ingrédients sont mesurés par volume pour le risotto:
+>
+> - 3 volumes d'eau/bouillon
+> - 2 volume de riz
+> - 1 volume d'oignon blanc
+> - 1 volume de vin blanc
+> - 1 volume de parmesan
 
 ## Preparation
 
@@ -39,7 +40,9 @@ les ingrédients sont mesurés par volume pour le risotto:
 
 ### Risotto
 
-- NE PAS RINCER LE RIZ
+> [!WARNING]
+> NE PAS RINCER LE RIZ
+
 - Découpez le/les oignons en dés très finement, on peux utiliser un processeur (l'oignon doit fondre à la cuisson, on ne veux pas sentir les morceaux sous les dents)
 - Rapez le parmesan
 
